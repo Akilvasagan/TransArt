@@ -1,5 +1,5 @@
 # TransArt-A-Multimodal-Application-for-Vernacular-Language-Translation-and-Image-Synthesis
-✨ TransArt: A multimodal application for vernacular language translation and image synthesis, leveraging Deep Learning and AI to transform Tamil text into creative visual content. Built with Gradio and  Streamlit and Hugging Face technologies.
+TransArt: A multimodal application for vernacular language translation and image synthesis, leveraging Deep Learning and AI to transform Tamil text into creative visual content. Built with Gradio and  Streamlit and Hugging Face technologies.
 ## Overview
 TransArt is a cutting-edge web-based application that seamlessly integrates language translation and creative AI to produce visual content from textual descriptions. The application translates text from Tamil to English and uses the translated text to generate relevant images, showcasing the potential of AI in enhancing communication and creative expression.
 
@@ -46,29 +46,3 @@ The primary goal of TransArt is to develop a user-friendly platform that enables
 5. **Security & Compliance**:
    - Implement robust data protection and compliance measures.
 
-## Results
-- Fully functional web application accessible to users.
-- Scalable deployment framework using Hugging Face services.
-- Comprehensive documentation for setup, deployment, and usage.
-
-## Project Deliverables
-- **Source Code**: Complete code for the application
-
-## Requirements for Code
-- torch>=1.7.1
-- transformers>=4.0.0
-- Pillow>=8.0.0
-- gradio>=3.0.0
-- requests>=2.24.0
-
-## Timeline
-- **Development**: 1 week
-- **Testing and Refinements**: 1 day
-- **Deployment and Launch**: 1 week
-
-## Hugging Face Spaces
-- https://huggingface.co/spaces/geetika14/TransArt/tree/main
----
-
-### Note
-This project demonstrates the powerful capabilities of combining language translation and image synthesis technologies, and it is intended to inspire further developments in the realm of multimodal applications.
